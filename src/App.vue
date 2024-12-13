@@ -114,7 +114,7 @@ export default {
       isM3uFormat: false,
       jsonData: [],
       options: [
-        {label: '饭太硬线路', value: 'http://饭太硬.com/tv'},
+        {label: '饭太硬线路', value: 'http://www.饭太硬.com/tv/'},
         {label: '肥猫线路', value: 'http://肥猫.com'},
         {label: '放牛线路', value: 'http://tvbox.王二小放牛娃.xyz'},
         {label: 'OK线路', value: 'http://ok321.top/tv'},
